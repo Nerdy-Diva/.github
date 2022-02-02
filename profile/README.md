@@ -22,7 +22,7 @@ Nerdy Diva is building on GitHub to encourage more collaboration and communicati
     - Inclusive Research Guide
     - Inclusive Design System
 
-👓 **We are always hiring talented, passionate people to join our team, who want to break into tech 🙌.
+👓 **We are always hiring talented, passionate people to join our team, who want to break into tech 🙌.**
 
 **Join the newsletter: https://mailchi.mp/0cdc271e78ea/nerdydivanewsletter**
 
