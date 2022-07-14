@@ -7,7 +7,7 @@
 - 💬 Ask us about UX, accessibility, diversity and inclusion, developer experience
 - 📫 How to reach Nerdy Diva: [Twitter](https://twitter.com/nerdydivadesign), [Website](https://nerdydiva.com/)
 
-Nerdy Diva is building on GitHub to encourage more collaboration and communication between designers and developers building inclusive products, services, and teams. Our mission is to create tools for designers and developers building inclusive apps and services. 
+Nerdy Diva is building on GitHub to encourage more collaboration and communication between designers and developers building inclusive products, services, and teams. Our mission is to create tools for designers and developers building inclusive apps and services. We specialize in Inclusive Workshops, Research, Design, and Development. Learn more at https://www.nerdydiva.com
 
 **🍿 An Inclusive Global Community**
 
