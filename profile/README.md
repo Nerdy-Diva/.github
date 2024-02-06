@@ -1,11 +1,11 @@
 ## Hi there 👋🏾
 
-- 🔭 We're currently working on inclusive UX research and design, social innovation, and angel investing in underrepresented founders
-- 🌱 We're currently learning more about contributing to APIs, cybersecurity, and cloud services
-- 🍕 We're looking to collaborate on social innovation projects
-- 🤔 We're looking for help with starting a remote internship program 
-- 💬 Ask us about UX, accessibility, diversity and inclusion, developer experience
-- 📫 How to reach Nerdy Diva: [Twitter](https://twitter.com/nerdydivadesign), [Website](https://nerdydiva.com/)
+- 🔭 We're currently working on inclusive UX research and design, social impact innovation, and angel investing in underrepresented founders
+- 🌱 We're currently learning more about contributing to AI, APIs, cybersecurity, and cloud services
+- 🍕 We're looking to collaborate on social impact innovation projects in the EdTech, digital health, and AI space
+- 🤔 We're looking for help with funding lab projects, and growing a remote internship program 
+- 💬 Ask us about UX, diversity and inclusion, developer experience
+- 📫 How to reach Nerdy Diva: [Website](https://nerdydiva.com/)
 
 Nerdy Diva is building on GitHub to encourage more collaboration and communication between designers and developers building inclusive products, services, and teams. Our mission is to create tools for designers and developers building inclusive apps and services. We specialize in Inclusive Workshops, Research, Design, and Development. Learn more at https://www.nerdydiva.com
 
@@ -24,7 +24,7 @@ Nerdy Diva is building on GitHub to encourage more collaboration and communicati
 
 👓 **We are always hiring talented, passionate people to join our team, who want to break into tech 🙌.**
 
-**Join the newsletter: https://mailchi.mp/0cdc271e78ea/nerdydivanewsletter**
+**Join the newsletter: https://nerdydiva.myflodesk.com/08d14ebc-3579-4f65-b091-9fb8477adaeb**
 
 <!--
 
